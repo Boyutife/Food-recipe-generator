@@ -1,0 +1,17 @@
+.resultContainer{
+  margin-top: 5rem;
+  max-width: 30rem;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.resultContainer img{
+  border-radius: 2rem;
+  border:  .4rem solid #00b4cc;
+}
+
+.resultContainer li {
+  list-style: none;
+  padding: .2rem;
+}
